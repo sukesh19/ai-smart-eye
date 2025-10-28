@@ -1,0 +1,7 @@
+{
+  "name": "AI Calorie Counter",
+  "description": "An AI-powered calorie and nutrition tracker. Upload a photo of your meal, and the AI will analyze it, ask clarifying questions, and provide a detailed nutritional breakdown. Track your daily intake and view progress on a comprehensive dashboard.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
